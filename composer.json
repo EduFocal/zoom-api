@@ -4,7 +4,7 @@
     "minimum-stability": "stable",
     "require": {
         "guzzlehttp/guzzle": "^7.5",
-        "firebase/php-jwt": "^5.0"
+        "firebase/php-jwt": "^6.4"
     },
     "autoload": {
         "psr-4": {"Zoom\\": ""}
